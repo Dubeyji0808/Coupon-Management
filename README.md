@@ -263,15 +263,22 @@ POST /coupons/best
 
 ---
 
-# 🔗 Submission Info
-
-Include these in assignment form:
-
-* **Name**
-* **GitHub Repository Link**
-* **Live Deployment Link (optional)**
-* **Tech Stack Used**
-* **Prompts used (AI note)**
+# Submission Info
+Name: Ayush Dubey
+GitHub Repository Link:
+https://github.com/Dubeyji0808/Coupon-Management
+Live Deployment / Demo Link (Optional):
+https://drive.google.com/file/d/19C1f9SLNEu9QgnQSla1t-fooOZuIoF_t/view?usp=sharing
+Tech Stack Used:
+Java 17
+Spring Boot 3.x
+Spring Web
+Lombok
+Validation API
+In-memory ConcurrentHashMap
+Postman (for testing)
+Prompts Used (AI Note):
+This project was built independently. AI was used only for minor assistance such as generating example test data, writing README sections, and clarifying Postman collection formatting. No AI-generated code has been used in the core implementation.
 
 ---
 
