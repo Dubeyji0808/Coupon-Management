@@ -1,9 +1,3 @@
-Here is a **clean, professional, submission-ready README.md** for your **Coupon Management** assignment.
-
-You can **copy–paste** this directly into your GitHub repository.
-
----
-
 # 📘 Coupon Management System — Backend Assignment
 
 A simple, scalable, rule-based **Coupon Management System** built with **Java Spring Boot**.
@@ -294,13 +288,3 @@ All code was thoroughly reviewed and tested manually.
 
 ---
 
-# 🎉 Done!
-
-Your README is now ready for submission.
-If you want, I can also generate:
-
-✅ Perfect formatted GitHub README with badges
-✅ Postman collection
-✅ Deployment guide (Render / Railway)
-
-Just tell me!
